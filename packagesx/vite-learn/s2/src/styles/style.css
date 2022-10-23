@@ -1,0 +1,9 @@
+@import url(./demo.css);
+
+:root {
+  --s2-bg-color: blue;
+}
+
+body {
+  color: var(--s2-bg-color);
+}
