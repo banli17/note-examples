@@ -1,0 +1,12 @@
+/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug/CMakeFiles/01.data-types-int.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug/CMakeFiles/02.data-types-char.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug/CMakeFiles/03.data-types-float.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug/CMakeFiles/04.variable.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug/CMakeFiles/05.constant.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug/CMakeFiles/05.out.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug/CMakeFiles/06.operators.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug/CMakeFiles/07.condition.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug/CMakeFiles/08.loop.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug/CMakeFiles/09.guess-number.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# ninja log v5
+66	146	1667661620311050787	02.proto_type.cpp	7a02689c30730785
+78	170	1667661480484537174	01.function-basic.cpp	3676d56896f5d086
+73	155	1667713079686879364	03.variable_types_and_scope.cpp	dfdf79ebf44f0c48
+1	77	1667661480393655118	CMakeFiles/01.function-basic.cpp.dir/01.function-basic.cpp.o	ab637ea86ae8db25
+0	114	1667713704221243446	CMakeFiles/04.varargs.cpp.dir/04.varargs.cpp.o	ad78d063fb21e89a
+1	73	1667713079605312890	CMakeFiles/03.variable_types_and_scope.cpp.dir/03.variable_types_and_scope.cpp.o	49bba80380f0295d
+104	194	1667736841128425276	06.hanoi.cpp	da18f44324815d74
+115	208	1667713704325115193	04.varargs.cpp	e45e25c7d684284f
+0	104	1667736841040331940	CMakeFiles/06.hanoi.cpp.dir/06.hanoi.cpp.o	d178abb29d25a0d
+83	175	1667715056520406100	05.recursion.cpp	699b99ac35598ee5
+0	87	1667661719196675855	CMakeFiles/02.proto_type.cpp.dir/02.proto_type.cpp.o	ac2625e8b32d73aa
+1	83	1667715056430028102	CMakeFiles/05.recursion.cpp.dir/05.recursion.cpp.o	da6eaf637f352226

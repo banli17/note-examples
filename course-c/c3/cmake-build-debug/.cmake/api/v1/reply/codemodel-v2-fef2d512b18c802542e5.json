@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "c3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01.function-basic.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01.function-basic.cpp-Debug-9ec81b9e88b078c96f7f.json",
+					"name" : "01.function-basic.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02.proto_type.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02.proto_type.cpp-Debug-f188dd3e1bd2feedceba.json",
+					"name" : "02.proto_type.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03.variable_types_and_scope.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03.variable_types_and_scope.cpp-Debug-1ea5d57d099ce33164ec.json",
+					"name" : "03.variable_types_and_scope.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04.varargs.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04.varargs.cpp-Debug-575c30b213080226b595.json",
+					"name" : "04.varargs.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05.recursion.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05.recursion.cpp-Debug-aaea76446944042351a1.json",
+					"name" : "05.recursion.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06.hanoi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06.hanoi.cpp-Debug-deb4f8aeddff8cb6a7b5.json",
+					"name" : "06.hanoi.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/banli/Downloads/course/my-blog/course-c/c3/cmake-build-debug",
+		"source" : "/Users/banli/Downloads/course/my-blog/course-c/c3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

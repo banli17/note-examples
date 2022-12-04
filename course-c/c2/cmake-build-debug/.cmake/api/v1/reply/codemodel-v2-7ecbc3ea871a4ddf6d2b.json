@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "c2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01.data-types-int.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01.data-types-int.cpp-Debug-c5b8e857f0971f8d93a9.json",
+					"name" : "01.data-types-int.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02.data-types-char.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02.data-types-char.cpp-Debug-d3b33bf4e8a244945715.json",
+					"name" : "02.data-types-char.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03.data-types-float.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03.data-types-float.cpp-Debug-7cd24a74a305fa6f4103.json",
+					"name" : "03.data-types-float.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04.variable.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04.variable.cpp-Debug-0ed2957f39feef007ea8.json",
+					"name" : "04.variable.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05.constant.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05.constant.cpp-Debug-e1c6fbea83b3965cae37.json",
+					"name" : "05.constant.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05.out.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05.out.cpp-Debug-0f5e99ef1024fae7d732.json",
+					"name" : "05.out.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06.operators.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06.operators.cpp-Debug-646abcef9c3fdf83d55a.json",
+					"name" : "06.operators.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07.condition.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07.condition.cpp-Debug-19d18ffec5c8ee1a0b98.json",
+					"name" : "07.condition.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08.loop.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08.loop.cpp-Debug-c71d49834c6c6479fa74.json",
+					"name" : "08.loop.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "09.guess-number.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09.guess-number.cpp-Debug-23d25e987895477e990d.json",
+					"name" : "09.guess-number.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/banli/Downloads/course/my-blog/course-c/c2/cmake-build-debug",
+		"source" : "/Users/banli/Downloads/course/my-blog/course-c/c2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

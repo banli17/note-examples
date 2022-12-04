@@ -1,0 +1,8 @@
+/Users/banli/Downloads/course/my-blog/course-c/c3/cmake-build-debug/CMakeFiles/01.function-basic.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c3/cmake-build-debug/CMakeFiles/02.proto_type.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c3/cmake-build-debug/CMakeFiles/03.variable_types_and_scope.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c3/cmake-build-debug/CMakeFiles/04.varargs.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c3/cmake-build-debug/CMakeFiles/05.recursion.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c3/cmake-build-debug/CMakeFiles/06.hanoi.cpp.dir
+/Users/banli/Downloads/course/my-blog/course-c/c3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/banli/Downloads/course/my-blog/course-c/c3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

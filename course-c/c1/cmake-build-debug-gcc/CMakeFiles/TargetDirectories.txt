@@ -1,0 +1,3 @@
+/Users/banli/Desktop/my-blog/course-c/c1/cmake-build-debug-gcc/CMakeFiles/02.hello-world.cpp.dir
+/Users/banli/Desktop/my-blog/course-c/c1/cmake-build-debug-gcc/CMakeFiles/edit_cache.dir
+/Users/banli/Desktop/my-blog/course-c/c1/cmake-build-debug-gcc/CMakeFiles/rebuild_cache.dir

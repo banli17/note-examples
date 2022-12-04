@@ -19,7 +19,6 @@ const pkgPages = Object.entries(pkgs).map(([key, value]) => {
     cache[matched[2]] = true;
     meta.h3 = h3;
   }
-  console.log(meta);
   return {
     path: matched[1],
     name: filename,
